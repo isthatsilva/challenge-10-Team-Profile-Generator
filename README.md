@@ -1,7 +1,5 @@
 # challenge-10-Team-Profile-Generator
 
-# Team-Profile-Generator
-
 ![Github licence](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ## Description
@@ -29,6 +27,7 @@ You use the Inquirer from your command line and then answer the questions about 
 
 ## Links
 
+https://drive.google.com/file/d/1_Wn5CD-dgoeC_NpVWUOm8HUrc7Gkkf6w/view
 
 ## License
 
